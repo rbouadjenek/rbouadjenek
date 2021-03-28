@@ -27,6 +27,6 @@ I'm mainly interested in the following topics: Information Retrieval, Biomedical
 <div>
 <!-- - 👯 I’m looking to collaborate on ...-->
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbouadjenek&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbouadjenek&count_private=true&layout=compact " />
 </div>
 
